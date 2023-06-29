@@ -1,10 +1,10 @@
 echo hello world
 
-echo -e "\e[31m RED COLOR\e[0m"
-echo -e "\e[32m GREEN COLOR\e[0m"
-echo -e "\e[33m YELLOW COLOR\e[0m"
-echo -e "\e[34m BLUE COLOR\e[0m"
-echo -e "\e[35m MAGENTA COLOR\e[0m"
-echo -e "\e[36m CYAN COLOR\e[0m"
-echo -e "\e[31m RED COLOR"
+echo -e "\e[31mRED COLOR\e[0m"
+echo -e "\e[32mGREEN COLOR\e[0m"
+echo -e "\e[33mYELLOW COLOR\e[0m"
+echo -e "\e[34mBLUE COLOR\e[0m"
+echo -e "\e[35mMAGENTA COLOR\e[0m"
+echo -e "\e[36mCYAN COLOR\e[0m"
+echo -e "\e[31mRED COLOR"
 NANDU
