@@ -7,4 +7,4 @@ function_name() {
 }
 
 # call a function
-fuction_name
+function_name
