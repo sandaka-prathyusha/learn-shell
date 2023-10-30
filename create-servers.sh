@@ -6,7 +6,7 @@ IMAGE_ID=ami-03265a0778a880afb
 SECURITY_GROUP_ID=sg-0374f9b0205b56a71
 DOMAIN_NAME=nandu18.online
 HOSTED_ZONE_ID=Z04696571X3K0NSQ4S0S6
-SECURITY_GROUP_ID=sg-0b34d8689bd628e3f
+SECURITY_GROUP_ID=sg-0374f9b0205b56a71
 
 # if mysql or mongodb instance_type should be t3.medium , for all others it is t2.micro
 
