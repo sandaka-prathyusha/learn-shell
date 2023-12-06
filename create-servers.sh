@@ -36,6 +36,6 @@ do
     '
 done
 
-# imporvement
+
 # check instance is already created or not
 # check route53 record is already exist, if exist update, otherwise create route53 record
